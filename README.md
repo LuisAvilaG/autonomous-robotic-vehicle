@@ -1,4 +1,4 @@
 # autonomous-robotic-vehicle
 Robot with navigation autonomous
 
-This proyect is created by Luis Avila for the matter of Proyectos Profesionales 
+This proyect is created by Luis Avila From Universidad Autonoma de Chihuahua
